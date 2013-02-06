@@ -22,4 +22,4 @@ grails.project.dependency.resolution = {
     }
 }
 
-grailsplugin.location.profiler = "../profiler"
+grails.plugin.location.profiler = "../profiler"
