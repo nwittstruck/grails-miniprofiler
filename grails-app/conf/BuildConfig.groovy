@@ -18,6 +18,8 @@ grails.project.dependency.resolution = {
         }
 
         runtime ":hibernate:$grailsVersion"
-        compile ':profiler:0.4'
+        //compile ':profiler:0.4'
     }
 }
+
+grailsplugin.location.profiler = "../profiler"
